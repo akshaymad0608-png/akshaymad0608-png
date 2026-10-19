@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Akshay Mahajan 👋
 
-<!--
-**akshaymad0608-png/akshaymad0608-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & AI web developer from Surat, Gujarat, India. I build websites, web apps, AI agents, chatbots and workflow automation for businesses.
 
-Here are some ideas to get you started:
+## 🌐 My live projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+|---|---|
+| [akshay.website](https://akshay.website) | My portfolio and case studies |
+| [QuickResume](https://quickresume.business) | Free AI resume builder with ATS-friendly templates |
+| [PhotoResizer](https://photoresizer.click) | Photo & signature resizer for exam forms |
+| [Language Translator](https://languagetransalator.com) | Free voice & text translator for Indian languages |
+| [FitSmart](https://fitsmart.space) | Free fitness calculators and workout plans |
+| [AI Master Tools](https://aimastertools.space) | Directory of AI tools, prompts and workflows |
+
+## 📫 Contact
+Website: [akshay.website](https://akshay.website)
